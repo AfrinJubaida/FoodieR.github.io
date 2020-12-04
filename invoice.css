@@ -1,0 +1,1118 @@
+/*
+	@name 2849192
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 2480px; height: 3508px; overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+
+#background {
+	top: 0px;
+	left: 0px;
+	width: 2480px;
+	height: 3508px;
+}
+
+#background_1 {
+	top: 0px;
+	left: 0px;
+	width: 2480px;
+	height: 3508px;
+}
+
+#design {
+	top: 0px;
+	left: -915px;
+	width: 3401px;
+	height: 3885px;
+}
+#shape_4 {
+	top: 1740px;
+	left: 0px;
+	width: 2146px;
+	height: 2145px;
+}
+
+#ellipse {
+	top: 0px;
+	left: 0px;
+	width: 2146px;
+	height: 2145px;
+	-ms-border-radius: 2107px / 549px;
+	-o-border-radius: 2107px / 549px;
+	-moz-border-radius: 2107px / 549px;
+	-webkit-border-radius: 2107px / 549px;
+	border-radius: 2107px / 549px;
+	background:#F8740A;
+}
+
+
+#ellipse_1 {
+	top: 102px;
+	left: 111px;
+	width: 1924px;
+	height: 1924px;
+	-ms-border-radius: 962px / 962px;
+	-o-border-radius: 962px / 962px;
+	-moz-border-radius: 962px / 962px;
+	-webkit-border-radius: 962px / 962px;
+	border-radius: 962px / 962px;
+	background:#F8740A;
+	background: -webkit-linear-gradient(-134deg , #f79709 35%, #fbc901 100%);
+	background: -o-linear-gradient(-134deg , #f79709 35%, #fbc901 100%);
+	background: -moz-linear-gradient(-134deg , #f79709 35%, #fbc901 100%);
+	background: -ms-linear-gradient(-134deg , #f79709 35%, #fbc901 100%);
+	background: linear-gradient(-134deg , #f79709 35%, #fbc901 100%);
+}
+
+#shape_3 {
+	top: 1075px;
+	left: 1105px;
+	width: 2103px;
+	height: 1417px;
+}
+
+#rectangle {
+	top: 0px;
+	left: 0px;
+	width: 2103px;
+	height: 1417px;
+	background:#FFFFFF;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 167px;
+	height: 1417px;
+	background:#F3EBD4;
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 1173px;
+	width: 309px;
+	height: 1417px;
+	background:#F3EBD4;
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 1789px;
+	width: 314px;
+	height: 1417px;
+	background:#F3EBD4;
+}
+
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 2103px;
+	height: 144px;
+	background:#FFFFFF;
+	background: -webkit-linear-gradient(-142deg , #f79709 0%, #fbc901 100%);
+	background: -o-linear-gradient(-142deg , #f79709 0%, #fbc901 100%);
+	background: -moz-linear-gradient(-142deg , #f79709 0%, #fbc901 100%);
+	background: -ms-linear-gradient(-142deg , #f79709 0%, #fbc901 100%);
+	background: linear-gradient(-142deg , #f79709 0%, #fbc901 100%);
+}
+
+
+#rectangle_5 {
+	top: 351px;
+	left: 0px;
+	width: 2103px;
+	height: 870px;
+	background:#F8740A;
+}
+
+#shape_2 {
+	top: 0px;
+	left: 915px;
+	width: 2486px;
+	height: 924px;
+}
+
+#rectangle_6 {
+	top: 0px;
+	left: 0px;
+	width: 2486px;
+	height: 924px;
+	background:#FFBF00;
+	background: -webkit-linear-gradient(-142deg , #f79709 0%, #fbc901 100%);
+	background: -o-linear-gradient(-142deg , #f79709 0%, #fbc901 100%);
+	background: -moz-linear-gradient(-142deg , #f79709 0%, #fbc901 100%);
+	background: -ms-linear-gradient(-142deg , #f79709 0%, #fbc901 100%);
+	background: linear-gradient(-142deg , #f79709 0%, #fbc901 100%);
+}
+
+#shape_1 {
+	top: 660px;
+	left: 1118px;
+	width: 2090px;
+	height: 2615px;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 121px;
+	height: 8px;
+	background:#FFFFFF;
+}
+
+
+#rectangle_8 {
+	top: 2609px;
+	left: 1546px;
+	width: 544px;
+	height: 6px;
+	background:#F8740A;
+}
+
+
+#rectangle_9 {
+	top: 2121px;
+	left: 1401px;
+	width: 689px;
+	height: 6px;
+	background:#F8740A;
+}
+
+#image {
+	top: -2662px;
+	left: 109px;
+	width: 3127px;
+	height: 3127px;
+}
+
+#ellipse_2 {
+	top: 0px;
+	left: 0px;
+	width: 3127px;
+	height: 3127px;
+	-ms-border-radius: 1564px / 1563px;
+	-o-border-radius: 1564px / 1563px;
+	-moz-border-radius: 1564px / 1563px;
+	-webkit-border-radius: 1564px / 1563px;
+	border-radius: 1564px / 1563px;
+	background:#8F9196;
+}
+
+
+#place_your_image_here__double_click_to_edit_ {
+	top: 2629px;
+	left: 437px;
+	width: 1953px;
+	height: 516px;
+}
+
+#text {
+	top: 516px;
+	left: 186px;
+	width: 2099px;
+	height: 2821px;
+}
+#body_text {
+	top: 609px;
+	left: 0px;
+	width: 2031px;
+	height: 2212px;
+}
+#authorised_sign {
+	top: 2168px;
+	left: 1681px;
+	width: 442px;
+	height: 200px;
+}
+
+#authorised_sign_1 {
+	top: -7px;
+	left: 0px;
+	width: 334px;
+	height: 66px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 44px;
+	text-align: left;
+	color:#454545;
+}
+
+#thank_you {
+	top: 2165px;
+	left: 1px;
+	width: 473px;
+	height: 37px;
+}
+
+#thank_you_for_your_business {
+	top: -6px;
+	left: 0px;
+	width: 492px;
+	height: 56px;
+	font-family: Roboto-Regular, Arial, Helvetica, sans-serif;
+	font-size: 37px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#terms___conditions {
+	top: 1850px;
+	left: 0px;
+	width: 646px;
+	height: 159px;
+}
+#description {
+	top: 81px;
+	left: 9px;
+	width: 637px;
+	height: 78px;
+}
+
+#description_1 {
+	top: -6px;
+	left: 0px;
+	width: 655px;
+	height: 96px;
+	font-family: Roboto-Light, Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#title {
+	top: 0px;
+	left: 0px;
+	width: 508px;
+	height: 46px;
+}
+
+#terms___conditions_1 {
+	top: -10px;
+	left: 0px;
+	width: 537px;
+	height: 75px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#payment_info {
+	top: 1482px;
+	left: 4px;
+	width: 702px;
+	height: 210px;
+}
+#bank_details {
+	top: 173px;
+	left: 7px;
+	width: 695px;
+	height: 37px;
+}
+
+#_add_your_bank_details_here {
+	top: -6px;
+	left: 255px;
+	width: 459px;
+	height: 56px;
+	font-family: Roboto-Light, Arial, Helvetica, sans-serif;
+	font-size: 37px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#bank_details_ {
+	top: -6px;
+	left: 0px;
+	width: 230px;
+	height: 48px;
+	font-family: Roboto-Light, Arial, Helvetica, sans-serif;
+	font-size: 37px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#a_c_name {
+	top: 127px;
+	left: 4px;
+	width: 474px;
+	height: 37px;
+}
+
+#your_account_name {
+	top: -8px;
+	left: 261px;
+	width: 232px;
+	height: 56px;
+	font-family: Roboto-Light, Arial, Helvetica, sans-serif;
+	font-size: 37px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#a_c_name_ {
+	top: -5px;
+	left: 0px;
+	width: 197px;
+	height: 49px;
+	font-family: Roboto-Light, Arial, Helvetica, sans-serif;
+	font-size: 37px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#account_no {
+	top: 83px;
+	left: 4px;
+	width: 511px;
+	height: 27px;
+}
+
+#1234_5678_9011 {
+	top: -4px;
+	left: 500px;
+	width: 278px;
+	height: 45px;
+	font-family: Roboto-Light, Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: right;
+	color:#FFFFFF;
+}
+
+
+#account_no_ {
+	top: -6px;
+	left: 0px;
+	width: 220px;
+	height: 45px;
+	font-family: Roboto-Light, Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#title_1 {
+	top: 0px;
+	left: 0px;
+	width: 358px;
+	height: 57px;
+}
+
+#payment_info_1 {
+	top: -10px;
+	left: 0px;
+	width: 387px;
+	height: 86px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#total_amount {
+	top: 1488px;
+	left: 1420px;
+	width: 590px;
+	height: 276px;
+}
+#total_amount_1 {
+	top: 222px;
+	left: 0px;
+	width: 590px;
+	height: 54px;
+}
+
+#total__amount {
+	top: -10px;
+	left: 0px;
+	width: 619px;
+	height: 83px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#tax_percentage {
+	top: 80px;
+	left: 0px;
+	width: 547px;
+	height: 32px;
+}
+
+#tax__percentage {
+	top: -7px;
+	left: 0px;
+	width: 569px;
+	height: 54px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 44px;
+	text-align: left;
+	color:#454545;
+}
+
+#sub_total_amount {
+	top: 0px;
+	left: 2px;
+	width: 584px;
+	height: 41px;
+}
+
+#sub_total__amount {
+	top: -7px;
+	left: 0px;
+	width: 606px;
+	height: 63px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 44px;
+	text-align: left;
+	color:#454545;
+}
+
+#invoice_table {
+	top: 0px;
+	left: 58px;
+	width: 1973px;
+	height: 866px;
+}
+#row_4 {
+	top: 812px;
+	left: 15px;
+	width: 1957px;
+	height: 54px;
+}
+#total {
+	top: 0px;
+	left: 1781px;
+	width: 176px;
+	height: 54px;
+}
+
+#total_1 {
+	top: -10px;
+	left: 0px;
+	width: 205px;
+	height: 83px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#qty_ {
+	top: 6px;
+	left: 1541px;
+	width: 28px;
+	height: 43px;
+}
+
+#qty__1 {
+	top: -10px;
+	left: 0px;
+	width: 57px;
+	height: 72px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#price {
+	top: 0px;
+	left: 1160px;
+	width: 175px;
+	height: 54px;
+}
+
+#price_1 {
+	top: -10px;
+	left: 0px;
+	width: 204px;
+	height: 83px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#item_description {
+	top: 4px;
+	left: 163px;
+	width: 691px;
+	height: 45px;
+}
+
+#item_description_1 {
+	top: -10px;
+	left: 0px;
+	width: 720px;
+	height: 74px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#serial_number {
+	top: 7px;
+	left: 0px;
+	width: 31px;
+	height: 41px;
+}
+
+#serial_number_1 {
+	top: -10px;
+	left: 0px;
+	width: 60px;
+	height: 70px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#row_3 {
+	top: 593px;
+	left: 16px;
+	width: 1956px;
+	height: 54px;
+}
+#total_2 {
+	top: 0px;
+	left: 1780px;
+	width: 176px;
+	height: 54px;
+}
+
+#total_3 {
+	top: -10px;
+	left: 0px;
+	width: 205px;
+	height: 83px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#qty__2 {
+	top: 7px;
+	left: 1543px;
+	width: 16px;
+	height: 41px;
+}
+
+#qty__3 {
+	top: -10px;
+	left: 0px;
+	width: 45px;
+	height: 70px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#price_2 {
+	top: 0px;
+	left: 1159px;
+	width: 175px;
+	height: 54px;
+}
+
+#price_3 {
+	top: -10px;
+	left: 0px;
+	width: 204px;
+	height: 83px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#item_description_2 {
+	top: 3px;
+	left: 162px;
+	width: 654px;
+	height: 46px;
+}
+
+#item_description_3 {
+	top: -10px;
+	left: 0px;
+	width: 683px;
+	height: 75px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#serial_number_2 {
+	top: 6px;
+	left: 0px;
+	width: 28px;
+	height: 43px;
+}
+
+#serial_number_3 {
+	top: -10px;
+	left: 0px;
+	width: 57px;
+	height: 72px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#row_2 {
+	top: 378px;
+	left: 16px;
+	width: 1956px;
+	height: 54px;
+}
+#total_4 {
+	top: 0px;
+	left: 1780px;
+	width: 176px;
+	height: 54px;
+}
+
+#total_5 {
+	top: -10px;
+	left: 0px;
+	width: 205px;
+	height: 83px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#qty__4 {
+	top: 6px;
+	left: 1540px;
+	width: 29px;
+	height: 42px;
+}
+
+#qty__5 {
+	top: -10px;
+	left: 0px;
+	width: 58px;
+	height: 71px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#price_4 {
+	top: 0px;
+	left: 1159px;
+	width: 175px;
+	height: 54px;
+}
+
+#price_5 {
+	top: -10px;
+	left: 0px;
+	width: 204px;
+	height: 83px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#item_description_4 {
+	top: 4px;
+	left: 162px;
+	width: 716px;
+	height: 45px;
+}
+
+#item_description_5 {
+	top: -10px;
+	left: 0px;
+	width: 745px;
+	height: 74px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#serial_number_4 {
+	top: 6px;
+	left: 0px;
+	width: 29px;
+	height: 42px;
+}
+
+#serial_number_5 {
+	top: -10px;
+	left: 0px;
+	width: 58px;
+	height: 71px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#row_1 {
+	top: 170px;
+	left: 19px;
+	width: 1954px;
+	height: 54px;
+}
+#total_6 {
+	top: 0px;
+	left: 1778px;
+	width: 176px;
+	height: 54px;
+}
+
+#total_7 {
+	top: -10px;
+	left: 0px;
+	width: 205px;
+	height: 83px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#qty__6 {
+	top: 7px;
+	left: 1541px;
+	width: 16px;
+	height: 41px;
+}
+
+#qty__7 {
+	top: -10px;
+	left: 0px;
+	width: 45px;
+	height: 70px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#price_6 {
+	top: 0px;
+	left: 1156px;
+	width: 176px;
+	height: 54px;
+}
+
+#price_7 {
+	top: -10px;
+	left: 0px;
+	width: 205px;
+	height: 83px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#item_description_6 {
+	top: 3px;
+	left: 159px;
+	width: 639px;
+	height: 46px;
+}
+
+#item_description_7 {
+	top: -10px;
+	left: 0px;
+	width: 668px;
+	height: 75px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#serial_number_6 {
+	top: 7px;
+	left: 0px;
+	width: 16px;
+	height: 41px;
+}
+
+#serial_number_7 {
+	top: -10px;
+	left: 0px;
+	width: 45px;
+	height: 70px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#454545;
+}
+
+#table_title {
+	top: 0px;
+	left: 0px;
+	width: 1930px;
+	height: 57px;
+}
+
+#total_8 {
+	top: -9px;
+	left: 1803px;
+	width: 156px;
+	height: 74px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#qty__8 {
+	top: -7px;
+	left: 1540px;
+	width: 124px;
+	height: 83px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#price_8 {
+	top: -10px;
+	left: 1177px;
+	width: 157px;
+	height: 75px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#item_description_8 {
+	top: -10px;
+	left: 189px;
+	width: 453px;
+	height: 86px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#serial_number_8 {
+	top: -7px;
+	left: 0px;
+	width: 107px;
+	height: 72px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#title_2 {
+	top: 0px;
+	left: 17px;
+	width: 2082px;
+	height: 321px;
+}
+#invoice_to {
+	top: 29px;
+	left: 0px;
+	width: 430px;
+	height: 291px;
+}
+
+#address {
+	top: 143px;
+	left: 2px;
+	width: 450px;
+	height: 163px;
+	font-family: Roboto-Regular, Arial, Helvetica, sans-serif;
+	font-size: 44px;
+	font-weight: bold;
+	text-align: left;
+	color:#FEFEFE;
+}
+
+
+#name {
+	top: 27px;
+	left: 1px;
+	width: 421px;
+	height: 82px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 66px;
+	text-align: left;
+	color:#FEFEFE;
+}
+
+
+#invoice_to_1 {
+	top: -6px;
+	left: -6px;
+	width: 219px;
+	height: 47px;
+	font-family: Roboto-Light, Arial, Helvetica, sans-serif;
+	font-size: 37px;
+	font-weight: bold;
+	text-align: center;
+	color:#FDFDFD;
+}
+
+#invoice_no___date {
+	top: 207px;
+	left: 1443px;
+	width: 639px;
+	height: 114px;
+}
+#date {
+	top: 72px;
+	left: 1px;
+	width: 637px;
+	height: 42px;
+}
+
+#01___04___2020 {
+	top: -3px;
+	left: 334px;
+	width: 326px;
+	height: 60px;
+	font-family: Roboto-Light, Arial, Helvetica, sans-serif;
+	font-size: 46px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#date_ {
+	top: -9px;
+	left: 0px;
+	width: 144px;
+	height: 66px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 53px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#invoice_no {
+	top: 0px;
+	left: 0px;
+	width: 639px;
+	height: 42px;
+}
+
+#42689 {
+	top: 0px;
+	left: 508px;
+	width: 154px;
+	height: 57px;
+	font-family: Roboto-Light, Arial, Helvetica, sans-serif;
+	font-size: 46px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#invoice_no_ {
+	top: -9px;
+	left: 0px;
+	width: 286px;
+	height: 69px;
+	font-family: Roboto-Medium, Arial, Helvetica, sans-serif;
+	font-size: 53px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#invoice {
+	top: 0px;
+	left: 1259px;
+	width: 819px;
+	height: 162px;
+}
+
+#invoice_1 {
+	top: -37px;
+	left: -37px;
+	width: 930px;
+	height: 273px;
+	font-family: Roboto-Regular, Arial, Helvetica, sans-serif;
+	font-size: 222px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+#logo {
+	top: 190px;
+	left: 187px;
+	width: 440px;
+	height: 129px;
+}
+#logo_text {
+	top: 37px;
+	left: 176px;
+	width: 264px;
+	height: 78px;
+}
+
+#logo_1 {
+	top: -14px;
+	left: 0px;
+	width: 308px;
+	height: 128px;
+	font-family: MyriadPro-Regular, Arial, Helvetica, sans-serif;
+	font-size: 107px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#place_your_logo_here__double_click_to_edit_ {
+	top: 0px;
+	left: 0px;
+	width: 156px;
+	height: 129px;
+}
+
+
+
+/* Add your custom CSS here */
